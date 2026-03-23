@@ -1,0 +1,4 @@
+interface:
+  display_name: "React Next Antd Ahooks"
+  short_description: "Next.js UI with Ant Design and ahooks."
+  default_prompt: "Use $react-next-antd-ahooks to build or refine a Next.js frontend with Ant Design and ahooks."
